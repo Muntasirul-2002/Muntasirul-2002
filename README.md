@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Js & Next.js**
 
-- 👨‍💻 All of my projects are available at [https://muntasirulislam.me/]((https://projectshowcase-muntasirul.netlify.app/))
+- 👨‍💻 All of my projects are available at [project_showcase](https://projectshowcase-muntasirul.netlify.app/))
 
 - 👨‍💻 My Protfolio is available at [https://m-islam.netlify.app/](https://m-islam.netlify.app)
 
