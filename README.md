@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/muntasirulisla8" target="blank"><img src="https://img.shields.io/twitter/follow/muntasirulisla8?logo=twitter&style=for-the-badge" alt="muntasirulisla8" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 I’m currently working on **Client's Website**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js & Next.js**
 
-- 👨‍💻 All of my projects are available at [https://muntasirulislam.me/](https://muntasirulislam.me/)
+- 👨‍💻 All of my projects are available at [https://muntasirulislam.me/]((https://projectshowcase-muntasirul.netlify.app/))
 
 - 👨‍💻 My Protfolio is available at [https://m-islam.netlify.app/](https://m-islam.netlify.app)
 
