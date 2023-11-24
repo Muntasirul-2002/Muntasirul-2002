@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [project_showcase](https://projectshowcase-muntasirul.netlify.app/))
 
-- 👨‍💻 My Protfolio is available at [https://m-islam.netlify.app/](https://m-islam.netlify.app)
+- 👨‍💻 My Protfolio is available at [Protfolio](https://m-islam.netlify.app)
 
 
 - 💬 Ask me about **Web Development**
